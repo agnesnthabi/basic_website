@@ -26,6 +26,7 @@ body {
     text-align: center;
 }
 
+
 .myTable{
     width:96%;
 }
@@ -97,6 +98,9 @@ section {
     .fav-sub{
         display: flex;
         justify-content: space-between;
+    }
+    .heritageDescription{
+        order: 0;
     }
 
 }
