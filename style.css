@@ -15,13 +15,13 @@ body {
     background-color: beige;
   }
   .intro{
-    background-image: url('https://capetown.today/wp-content/uploads/2023/08/rkrrpoaj.jpg'); 
+    background-image: url('images/rkrrpoaj.jpg'); 
     background-size: cover;
   }
 
 .main {
     font-family: Arial, sans-serif;
-    background-image: url('https://capetown.today/wp-content/uploads/2023/08/rkrrpoaj.jpg'); 
+    background-image: url('images/rkrrpoaj.jpg'); 
     background-size: cover; 
     text-align: center;
 }
